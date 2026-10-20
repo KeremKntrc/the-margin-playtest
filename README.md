@@ -1,9 +1,9 @@
-# The Margin — Playtest v0.14.3
+# The Margin — Playtest v0.15.5
 
 > **Erken test sürümü, görsellerin bir kısmı yapay zekâ ile üretildi.**
 > Bu depoda kaynak kod yok; yalnız oyun testi derlemesi var.
 
-**İndir:** [Releases → v0.14.3-playtest](https://github.com/KeremKntrc/the-margin-playtest/releases/tag/v0.14.3-playtest) → `TheMargin-playtest-v0.14.3-win64.zip` (Windows 64 bit)
+**İndir:** [TheMargin-playtest-v0.15.5-win64.zip](https://github.com/KeremKntrc/the-margin-playtest/releases/download/v0.15.5-playtest/TheMargin-playtest-v0.15.5-win64.zip) (Windows 64 bit) · [sürüm sayfası](https://github.com/KeremKntrc/the-margin-playtest/releases/tag/v0.15.5-playtest)
 
 
 ## NASIL BAŞLATILIR
